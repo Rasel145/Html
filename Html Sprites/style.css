@@ -1,0 +1,94 @@
+
+h1{
+    text-align: center;
+    color: gray;
+}
+#social{
+    text-align: center;
+    margin-top: 40px;
+}
+#social span{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    background-image: url(./social-sprite.png);
+    transition: all 1s;
+}
+.twitter{
+    background-position: 0px 0px;
+}
+.twitter:hover{
+    background-position: 0px -56px;
+}
+.facebook{
+    background-position: -56px 0px;
+}
+.facebook:hover{
+    background-position: -56px -56px;
+}
+.instagram{
+    background-position: -113px 0px;
+}
+.instagram:hover{
+    background-position: -113px -56px;
+}
+.pinterest{
+    background-position: -170px 0px;
+}
+.pinterest:hover{
+    background-position: -170px -56px;
+}
+.googleplus{
+    background-position: -226px 0px;
+}
+.googleplus:hover{
+    background-position: -226px -56px;
+}
+.tumblr{
+    background-position: -282px 0px;
+}
+.tumblr:hover{
+    background-position: -282px -56px;
+}
+.vimeo{
+    background-position: -339px 0px ;
+}
+.vimeo:hover{
+    background-position: -339px -56px;
+}
+.youtube{
+    background-position: -395px 0px;
+}
+.youtube:hover{
+    background-position: -395px -56px;
+}
+.stumbleupon{
+    background-position: -451px 0px;
+}
+.stumbleupon:hover{
+    background-position: -451px -56px ;
+}
+.digg{
+    background-position: -507px 0px;
+}
+.digg:hover{
+    background-position: -507px -56px;
+}
+.flickr{
+    background-position: -565px 0px ;
+}
+.flickr:hover{
+    background-position: -565px -56px;
+}
+.del{
+    background-position: -621px 0px;
+}
+.del:hover{
+    background-position: -621px -56px;
+}
+.rss{
+    background-position: -678px 0px ;
+}
+.rss:hover{
+    background-position: -678px -56px;
+}
